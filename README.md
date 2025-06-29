@@ -1,5 +1,6 @@
 # MD - CayoGraves
 
+- Add md-cayograves and [minigames] to your server and ensure
 - Grave robbing system on Cayo Perico made for OX
 - CD_Dispatch alerts implemented (ex. For U.S. Army)
 - Open code
