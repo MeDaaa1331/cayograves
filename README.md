@@ -19,3 +19,6 @@
 - Durability reduce on needed item
 - Chance for durability reduce
 - Item labels
+
+
+**For proper functionality, visit discord.gg/dJ647fJ5fW and add #minigames to your server**
